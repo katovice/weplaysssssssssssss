@@ -1,0 +1,2616 @@
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public-qa/users/avatar/user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public-qa\users\avatar\user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC-1.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public-qa/users/avatar/user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public-qa\users\avatar\user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC-2.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public-qa/users/avatar/user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public-qa\users\avatar\user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC-3.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public-qa/users/avatar/user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public-qa\users\avatar\user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC-4.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public-qa/users/avatar/user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public-qa\users\avatar\user_408_0d2ff47611ed6f229cdb448b389a6f3d.D5E8F4-1050B6-748CCC.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-09-09/aeaac2c2c69b23e4ad5c15a3e0ffb439.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-09\aeaac2c2c69b23e4ad5c15a3e0ffb439-1.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-09-09/aeaac2c2c69b23e4ad5c15a3e0ffb439.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-09\aeaac2c2c69b23e4ad5c15a3e0ffb439-2.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-09-09/aeaac2c2c69b23e4ad5c15a3e0ffb439.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-09\aeaac2c2c69b23e4ad5c15a3e0ffb439-3.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-09-09/aeaac2c2c69b23e4ad5c15a3e0ffb439.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-09\aeaac2c2c69b23e4ad5c15a3e0ffb439-4.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-09-09/aeaac2c2c69b23e4ad5c15a3e0ffb439.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-09\aeaac2c2c69b23e4ad5c15a3e0ffb439.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-11-14/6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-14\6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C-5.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-11-14/6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-14\6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C-1.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-11-14/6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-14\6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C-2.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-11-14/6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-14\6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C-3.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-11-14/6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-14\6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C-4.png
+Content Type: application/octet-stream
+
+Uri: https://cdn-weplay-test.azureedge.net/weplay-public/2019-11-14/6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-14\6897b6b416b49f722ed1abfde1bd57b0.0B2350-212D49-061C3C.png
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?display=swap&family=Rubik:300,400,400i,500,700&subset=cyrillic
+File Name: C:\Downloaded Web Sites\weplay.tw\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3Uzf4c.ttf
+File Name: C:\Downloaded Web Sites\weplay.tw\s\rubik\v21\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3Uzf4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FU0Uw.ttf
+File Name: C:\Downloaded Web Sites\weplay.tw\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\weplay.tw\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\weplay.tw\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0Uw.ttf
+File Name: C:\Downloaded Web Sites\weplay.tw\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFU0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://giant.gfycat.com/LeftSpanishAtlasmoth.mp4
+File Name: C:\Downloaded Web Sites\weplay.tw\LeftSpanishAtlasmoth.mp4
+Content Type: video/mp4
+
+Uri: https://i.ibb.co/jZW58HX/2021-06-15-092210.png
+File Name: C:\Downloaded Web Sites\weplay.tw\jZW58HX\2021-06-15-092210.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/a7xZAjJ.png
+File Name: C:\Downloaded Web Sites\weplay.tw\a7xZAjJ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/e2RYJZ2.png
+File Name: C:\Downloaded Web Sites\weplay.tw\e2RYJZ2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/iZ3Mry8.png
+File Name: C:\Downloaded Web Sites\weplay.tw\iZ3Mry8-5.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/iZ3Mry8.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\iZ3Mry8-1.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/iZ3Mry8.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\iZ3Mry8-2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/iZ3Mry8.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\iZ3Mry8-3.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/iZ3Mry8.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\iZ3Mry8-4.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/iZ3Mry8.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\iZ3Mry8.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/KR0bD64.png
+File Name: C:\Downloaded Web Sites\weplay.tw\KR0bD64.png
+Content Type: image/png
+
+Uri: https://regtournament.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\weplay.tw\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://static-prod.weplay.tv/2019-03-26/c6beff59995f3cff6fd06f88b4350cc9_avatar-cover.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-03-26\c6beff59995f3cff6fd06f88b4350cc9_avatar-cover-1.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-03-26/c6beff59995f3cff6fd06f88b4350cc9_avatar-cover.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-03-26\c6beff59995f3cff6fd06f88b4350cc9_avatar-cover-2.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-03-26/c6beff59995f3cff6fd06f88b4350cc9_avatar-cover.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-03-26\c6beff59995f3cff6fd06f88b4350cc9_avatar-cover-3.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-03-26/c6beff59995f3cff6fd06f88b4350cc9_avatar-cover.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-03-26\c6beff59995f3cff6fd06f88b4350cc9_avatar-cover-4.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-03-26/c6beff59995f3cff6fd06f88b4350cc9_avatar-cover.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-03-26\c6beff59995f3cff6fd06f88b4350cc9_avatar-cover.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-04-02/df9e7717de8c3a59e39ec808533f6bce.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-04-02\df9e7717de8c3a59e39ec808533f6bce-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-04-02/df9e7717de8c3a59e39ec808533f6bce.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-04-02\df9e7717de8c3a59e39ec808533f6bce-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-04-02/df9e7717de8c3a59e39ec808533f6bce.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-04-02\df9e7717de8c3a59e39ec808533f6bce-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-04-02/df9e7717de8c3a59e39ec808533f6bce.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-04-02\df9e7717de8c3a59e39ec808533f6bce-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-04-02/df9e7717de8c3a59e39ec808533f6bce.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-04-02\df9e7717de8c3a59e39ec808533f6bce.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-05-05/cbd9b61e57fa82cabc3d5732ca95cde5_big_cover.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-05-05\cbd9b61e57fa82cabc3d5732ca95cde5_big_cover-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-05-05/cbd9b61e57fa82cabc3d5732ca95cde5_big_cover.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-05-05\cbd9b61e57fa82cabc3d5732ca95cde5_big_cover-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-05-05/cbd9b61e57fa82cabc3d5732ca95cde5_big_cover.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-05-05\cbd9b61e57fa82cabc3d5732ca95cde5_big_cover-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-05-05/cbd9b61e57fa82cabc3d5732ca95cde5_big_cover.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-05-05\cbd9b61e57fa82cabc3d5732ca95cde5_big_cover-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-05-05/cbd9b61e57fa82cabc3d5732ca95cde5_big_cover.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-05-05\cbd9b61e57fa82cabc3d5732ca95cde5_big_cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-08-04/ebd2fce511cb268a8978618f9c4c7d09_large_cover.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-04\ebd2fce511cb268a8978618f9c4c7d09_large_cover-1.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-08-04/ebd2fce511cb268a8978618f9c4c7d09_large_cover.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-04\ebd2fce511cb268a8978618f9c4c7d09_large_cover-2.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-08-04/ebd2fce511cb268a8978618f9c4c7d09_large_cover.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-04\ebd2fce511cb268a8978618f9c4c7d09_large_cover-3.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-08-04/ebd2fce511cb268a8978618f9c4c7d09_large_cover.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-04\ebd2fce511cb268a8978618f9c4c7d09_large_cover-4.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-08-04/ebd2fce511cb268a8978618f9c4c7d09_large_cover.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-04\ebd2fce511cb268a8978618f9c4c7d09_large_cover.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/2019-08-07/e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-07\e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-08-07/e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-07\e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-08-07/e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-07\e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-08-07/e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-07\e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-08-07/e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-08-07\e6cd472a27b69b5ffb0046a72e9d1ec2_big_cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-23/e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-23\e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-23/e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-23\e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-23/e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-23\e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-23/e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-23\e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-23/e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-23\e15b78a9b7c0c166387913d267d1bac1_large_cover.0E1628-44B3E2-B5A494.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-25/780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-25\780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-25/780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-25\780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-25/780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-25\780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-25/780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-25\780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-25/780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-25\780b2d21d14936df3d810f774b21b5f8_large_cover.0B2540-D4B6B3-4AB5E2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-27/2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-27\2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-27/2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-27\2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-27/2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-27\2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-27/2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-27\2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2019-12-27/2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2019-12-27\2b79ba6299d88b25f91bc3f02924bdf4_large_cover.0A2540-C8B2B2-4BB5E2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/27b9a9c5f7294d5d97c4c08c2ff61463.0C162A-655454-3C7275.jpeg?w=1210
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\27b9a9c5f7294d5d97c4c08c2ff61463.0C162A-655454-3C7275.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/27b9a9c5f7294d5d97c4c08c2ff61463.0C162A-655454-3C7275.jpeg?w=1740
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\27b9a9c5f7294d5d97c4c08c2ff61463.0C162A-655454-3C7275-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/27b9a9c5f7294d5d97c4c08c2ff61463.0C162A-655454-3C7275.jpeg?w=2100
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\27b9a9c5f7294d5d97c4c08c2ff61463.0C162A-655454-3C7275-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/6bc6cabc6bf313813c17008dc3c13e06.3D4850-6F9BB5-D4AC5F.jpeg?w=1080
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\6bc6cabc6bf313813c17008dc3c13e06.3D4850-6F9BB5-D4AC5F.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/6bc6cabc6bf313813c17008dc3c13e06.3D4850-6F9BB5-D4AC5F.jpeg?w=1200
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\6bc6cabc6bf313813c17008dc3c13e06.3D4850-6F9BB5-D4AC5F-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/6bc6cabc6bf313813c17008dc3c13e06.3D4850-6F9BB5-D4AC5F.jpeg?w=400
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\6bc6cabc6bf313813c17008dc3c13e06.3D4850-6F9BB5-D4AC5F-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/cb1ae797c170735bf9983a1cf3e875d5.151E2E-6B5C63-515D54.jpeg?w=1210
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\cb1ae797c170735bf9983a1cf3e875d5.151E2E-6B5C63-515D54.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/cb1ae797c170735bf9983a1cf3e875d5.151E2E-6B5C63-515D54.jpeg?w=1740
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\cb1ae797c170735bf9983a1cf3e875d5.151E2E-6B5C63-515D54-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-01-30/cb1ae797c170735bf9983a1cf3e875d5.151E2E-6B5C63-515D54.jpeg?w=2100
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-01-30\cb1ae797c170735bf9983a1cf3e875d5.151E2E-6B5C63-515D54-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static-prod.weplay.tv/2020-02-27/d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-27\d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-27/d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-27\d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-27/d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-27\d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-27/d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-27\d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-27/d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-27\d611a4e18de8443561c3034b9d604f38_big_cover.141B34-D9C5BB-639AD2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-28/05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-28\05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-28/05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-28\05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-28/05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-28\05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-28/05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-28\05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-02-28/05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-02-28\05c186fb136d51562dfc92763b216c74_big_cover.0F1933-DFEFF5-499ECB.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-10/946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-10\946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-10/946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-10\946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-10/946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-10\946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-10/946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-10\946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-10/946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-10\946ce70063cf845697b0d045c5810afe_big_cover.0F1933-DFEFF5-499ECB.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60-5.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\2a2f2bcbceeeb95b20ba943a7b076164.291E18-D27343-70BC60.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-16/698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-16\698c49d3029c5c7adcd508c978d9ebf0.069BCB-047BAA-3FB1E1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\0071fcd3f3a2490fbd46ef7222cf32da_big_cover.0B2548-EE8449-169ECB.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\08844131bccce2a9eeae477ab4d26aac.1C1D1C-969391-6B7075.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\11fcc8644ee0564c135465c61f0759cd_big_cover.312825-D28357-79A369.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\4605523be35b16b93f87f50a0b962fa9_big_cover.042144-0B8EBD-087592.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\46101ddfe126544083be4ed17d658945.1F1F1F-B4AFAF-8A9491.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\83ba09cd8b46876b0dd7577c335dac94.40B0DC-147CA4-1494C4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\8c901a1b46b3bdb3897927482e849148.E9ECE8-536F7E-AD734A.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\9f64ae499d9367b918fd9ce079ce534e.1E201D-93918D-726C66.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-17/e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-17\e36f2a7aac44dc272de615c3e8d35587.0B274D-DEACAC-1E9FCB.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\11e3ec7b706732f4cad084020a8bcb0e_big_cover.FA3C16-CAD3D4-323439.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\1f204161f0a53d946da44f68bd48417d_big_cover.47475F-DBA892-8AB8B4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\2c19c400e95c54db4c9e9ccc2532cb20.0A1124-C5637E-25A0C4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\4fe170f2061c463634558c8946103a0c.091123-C75461-05A7D9.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\6fcfc7089bb646635614888fa06f0528_big_cover.2D2622-C3B5A8-8C9492.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\79d4c71cb8a17215d11041eec71a0d3d_big_cover.312825-D28357-79A369.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b06bf8e47c9e8967c43f104f5cb28417_big_cover.0E2A4F-D0D0D1-3B9BCF.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\b76fbb2505872126027568bd00d18712.04112A-E6347D-0CC4E4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\d8a6ac03c9a4c19470a4305c2c4970d5.06132A-D58778-0DADCE.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/2020-03-18/ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\2020-03-18\ec67f3accb77b9233de33f0da93519a8_big_cover.171318-BEB3AA-62939C.jpeg
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/frontend-common-assets/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\weplay.tw\frontend-common-assets\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_48220171b09d6426d1dac8c88ffd4ac3.1E313D-A36F50-04B7EE.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_6213c46c42a9c796b313bb8451d54685.073354-19CEF0-A48CA3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8b3ca2c78ed21ffdce2d24bac18650c3.073354-19CEF0-A48CA3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_8c7eaefbcf917d9f1fe0660f144f05a4.1B3F54-CFC4B9-31CEF2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_930781ff8e21951be44f0077483dd82f.25313C-B48F8A-33B3D4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF-5.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_aa4d988cc18eb0cb91f6e30a312eaae0.073F62-D5AF94-18D1EF.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3-1.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3-2.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3-3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3-4.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/tournaments/avatar/user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\tournaments\avatar\user_102113_ec62e90af508813cec09be9c35bf74db.0D2C4A-C96A4C-04AEE3.png
+Content Type: application/octet-stream
+
+Uri: https://static-prod.weplay.tv/users/avatar/user_21600_87cc859f4ece8cab5a2f2b5693bd2e8a.2D251C-D4B7A4-94948C.jpeg
+File Name: C:\Downloaded Web Sites\weplay.tw\users\avatar\user_21600_87cc859f4ece8cab5a2f2b5693bd2e8a.2D251C-D4B7A4-94948C.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-07-29/de870816f4b4cdff7af0ede83d6cc8cb.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-07-29\de870816f4b4cdff7af0ede83d6cc8cb-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-07-29/de870816f4b4cdff7af0ede83d6cc8cb.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-07-29\de870816f4b4cdff7af0ede83d6cc8cb-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-07-29/de870816f4b4cdff7af0ede83d6cc8cb.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-07-29\de870816f4b4cdff7af0ede83d6cc8cb-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-07-29/de870816f4b4cdff7af0ede83d6cc8cb.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-07-29\de870816f4b4cdff7af0ede83d6cc8cb-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-07-29/de870816f4b4cdff7af0ede83d6cc8cb.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-07-29\de870816f4b4cdff7af0ede83d6cc8cb.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/255e5a1121630a17a739dbe2bf795396.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\255e5a1121630a17a739dbe2bf795396-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/255e5a1121630a17a739dbe2bf795396.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\255e5a1121630a17a739dbe2bf795396-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/255e5a1121630a17a739dbe2bf795396.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\255e5a1121630a17a739dbe2bf795396-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/255e5a1121630a17a739dbe2bf795396.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\255e5a1121630a17a739dbe2bf795396-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/255e5a1121630a17a739dbe2bf795396.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\255e5a1121630a17a739dbe2bf795396.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/28b0d8df4130ecf6ee48394efafba24e.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\28b0d8df4130ecf6ee48394efafba24e-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/28b0d8df4130ecf6ee48394efafba24e.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\28b0d8df4130ecf6ee48394efafba24e-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/28b0d8df4130ecf6ee48394efafba24e.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\28b0d8df4130ecf6ee48394efafba24e-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/28b0d8df4130ecf6ee48394efafba24e.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\28b0d8df4130ecf6ee48394efafba24e-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/28b0d8df4130ecf6ee48394efafba24e.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\28b0d8df4130ecf6ee48394efafba24e.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/29a788f6f506177f244de61a075ac7fb.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\29a788f6f506177f244de61a075ac7fb-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/29a788f6f506177f244de61a075ac7fb.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\29a788f6f506177f244de61a075ac7fb-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/29a788f6f506177f244de61a075ac7fb.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\29a788f6f506177f244de61a075ac7fb-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/29a788f6f506177f244de61a075ac7fb.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\29a788f6f506177f244de61a075ac7fb-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/29a788f6f506177f244de61a075ac7fb.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\29a788f6f506177f244de61a075ac7fb.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/3225b18fbead8896a5550384aa219712.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\3225b18fbead8896a5550384aa219712-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/3225b18fbead8896a5550384aa219712.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\3225b18fbead8896a5550384aa219712-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/3225b18fbead8896a5550384aa219712.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\3225b18fbead8896a5550384aa219712-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/3225b18fbead8896a5550384aa219712.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\3225b18fbead8896a5550384aa219712-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/3225b18fbead8896a5550384aa219712.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\3225b18fbead8896a5550384aa219712.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/9054753b3e39004b65508fc6eded8ccb.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\9054753b3e39004b65508fc6eded8ccb-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/9054753b3e39004b65508fc6eded8ccb.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\9054753b3e39004b65508fc6eded8ccb-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/9054753b3e39004b65508fc6eded8ccb.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\9054753b3e39004b65508fc6eded8ccb-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/9054753b3e39004b65508fc6eded8ccb.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\9054753b3e39004b65508fc6eded8ccb-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/9054753b3e39004b65508fc6eded8ccb.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\9054753b3e39004b65508fc6eded8ccb.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/96335b54ba79d794c98a64e0e761bc6a.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\96335b54ba79d794c98a64e0e761bc6a-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/96335b54ba79d794c98a64e0e761bc6a.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\96335b54ba79d794c98a64e0e761bc6a-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/96335b54ba79d794c98a64e0e761bc6a.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\96335b54ba79d794c98a64e0e761bc6a-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/96335b54ba79d794c98a64e0e761bc6a.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\96335b54ba79d794c98a64e0e761bc6a-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/96335b54ba79d794c98a64e0e761bc6a.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\96335b54ba79d794c98a64e0e761bc6a.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/af72c92766a3415ede2f6c5942fa2be9.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\af72c92766a3415ede2f6c5942fa2be9-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/af72c92766a3415ede2f6c5942fa2be9.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\af72c92766a3415ede2f6c5942fa2be9-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/af72c92766a3415ede2f6c5942fa2be9.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\af72c92766a3415ede2f6c5942fa2be9-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/af72c92766a3415ede2f6c5942fa2be9.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\af72c92766a3415ede2f6c5942fa2be9-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/af72c92766a3415ede2f6c5942fa2be9.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\af72c92766a3415ede2f6c5942fa2be9.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/f86c794f14aba5227823fac7cc90d14f.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\f86c794f14aba5227823fac7cc90d14f-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/f86c794f14aba5227823fac7cc90d14f.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\f86c794f14aba5227823fac7cc90d14f-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/f86c794f14aba5227823fac7cc90d14f.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\f86c794f14aba5227823fac7cc90d14f-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/f86c794f14aba5227823fac7cc90d14f.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\f86c794f14aba5227823fac7cc90d14f-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-02/f86c794f14aba5227823fac7cc90d14f.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-02\f86c794f14aba5227823fac7cc90d14f.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-04/7f345ce698d022eadc4397567c0974a8.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-04\7f345ce698d022eadc4397567c0974a8-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-04/7f345ce698d022eadc4397567c0974a8.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-04\7f345ce698d022eadc4397567c0974a8-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-04/7f345ce698d022eadc4397567c0974a8.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-04\7f345ce698d022eadc4397567c0974a8-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-04/7f345ce698d022eadc4397567c0974a8.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-04\7f345ce698d022eadc4397567c0974a8-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-04/7f345ce698d022eadc4397567c0974a8.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-04\7f345ce698d022eadc4397567c0974a8.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/0fbee12021adb1405ae3195399023780.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\0fbee12021adb1405ae3195399023780-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/0fbee12021adb1405ae3195399023780.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\0fbee12021adb1405ae3195399023780-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/0fbee12021adb1405ae3195399023780.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\0fbee12021adb1405ae3195399023780-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/0fbee12021adb1405ae3195399023780.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\0fbee12021adb1405ae3195399023780-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/0fbee12021adb1405ae3195399023780.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\0fbee12021adb1405ae3195399023780.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/175e5bfc2f78736146f50f5f3a9ea5da.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\175e5bfc2f78736146f50f5f3a9ea5da-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/175e5bfc2f78736146f50f5f3a9ea5da.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\175e5bfc2f78736146f50f5f3a9ea5da-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/175e5bfc2f78736146f50f5f3a9ea5da.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\175e5bfc2f78736146f50f5f3a9ea5da-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/175e5bfc2f78736146f50f5f3a9ea5da.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\175e5bfc2f78736146f50f5f3a9ea5da-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/175e5bfc2f78736146f50f5f3a9ea5da.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\175e5bfc2f78736146f50f5f3a9ea5da.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/194fb60bcc44ca5ce892208dd115d6e6.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\194fb60bcc44ca5ce892208dd115d6e6-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/194fb60bcc44ca5ce892208dd115d6e6.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\194fb60bcc44ca5ce892208dd115d6e6-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/194fb60bcc44ca5ce892208dd115d6e6.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\194fb60bcc44ca5ce892208dd115d6e6-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/194fb60bcc44ca5ce892208dd115d6e6.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\194fb60bcc44ca5ce892208dd115d6e6-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/194fb60bcc44ca5ce892208dd115d6e6.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\194fb60bcc44ca5ce892208dd115d6e6.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/24c4631e3bbe603192fe2b79ec577312.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\24c4631e3bbe603192fe2b79ec577312-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/24c4631e3bbe603192fe2b79ec577312.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\24c4631e3bbe603192fe2b79ec577312-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/24c4631e3bbe603192fe2b79ec577312.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\24c4631e3bbe603192fe2b79ec577312-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/24c4631e3bbe603192fe2b79ec577312.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\24c4631e3bbe603192fe2b79ec577312-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/24c4631e3bbe603192fe2b79ec577312.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\24c4631e3bbe603192fe2b79ec577312.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/3273c5e20e8bbeb59eeb921bf7351c55.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\3273c5e20e8bbeb59eeb921bf7351c55-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/3273c5e20e8bbeb59eeb921bf7351c55.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\3273c5e20e8bbeb59eeb921bf7351c55-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/3273c5e20e8bbeb59eeb921bf7351c55.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\3273c5e20e8bbeb59eeb921bf7351c55-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/3273c5e20e8bbeb59eeb921bf7351c55.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\3273c5e20e8bbeb59eeb921bf7351c55-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/3273c5e20e8bbeb59eeb921bf7351c55.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\3273c5e20e8bbeb59eeb921bf7351c55.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/6040037a938258621c94bcfc9cbb1eee.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\6040037a938258621c94bcfc9cbb1eee-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/6040037a938258621c94bcfc9cbb1eee.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\6040037a938258621c94bcfc9cbb1eee-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/6040037a938258621c94bcfc9cbb1eee.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\6040037a938258621c94bcfc9cbb1eee-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/6040037a938258621c94bcfc9cbb1eee.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\6040037a938258621c94bcfc9cbb1eee-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/6040037a938258621c94bcfc9cbb1eee.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\6040037a938258621c94bcfc9cbb1eee.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/716f1ef1f89c32326a51ff1dd1ed08ae.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\716f1ef1f89c32326a51ff1dd1ed08ae-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/716f1ef1f89c32326a51ff1dd1ed08ae.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\716f1ef1f89c32326a51ff1dd1ed08ae-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/716f1ef1f89c32326a51ff1dd1ed08ae.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\716f1ef1f89c32326a51ff1dd1ed08ae-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/716f1ef1f89c32326a51ff1dd1ed08ae.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\716f1ef1f89c32326a51ff1dd1ed08ae-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/716f1ef1f89c32326a51ff1dd1ed08ae.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\716f1ef1f89c32326a51ff1dd1ed08ae.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/846246b1cda23657d8822e9b3393b418.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\846246b1cda23657d8822e9b3393b418-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/846246b1cda23657d8822e9b3393b418.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\846246b1cda23657d8822e9b3393b418-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/846246b1cda23657d8822e9b3393b418.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\846246b1cda23657d8822e9b3393b418-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/846246b1cda23657d8822e9b3393b418.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\846246b1cda23657d8822e9b3393b418-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/846246b1cda23657d8822e9b3393b418.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\846246b1cda23657d8822e9b3393b418.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/94b5bb3556e70054d1bbd5daf471011b.jpeg
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\94b5bb3556e70054d1bbd5daf471011b-5.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/94b5bb3556e70054d1bbd5daf471011b.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\94b5bb3556e70054d1bbd5daf471011b-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/94b5bb3556e70054d1bbd5daf471011b.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\94b5bb3556e70054d1bbd5daf471011b-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/94b5bb3556e70054d1bbd5daf471011b.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\94b5bb3556e70054d1bbd5daf471011b-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/94b5bb3556e70054d1bbd5daf471011b.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\94b5bb3556e70054d1bbd5daf471011b-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/94b5bb3556e70054d1bbd5daf471011b.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\94b5bb3556e70054d1bbd5daf471011b.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/acfd5aac5ca7e690ae1164e14ce52fb4.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\acfd5aac5ca7e690ae1164e14ce52fb4-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/acfd5aac5ca7e690ae1164e14ce52fb4.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\acfd5aac5ca7e690ae1164e14ce52fb4-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/acfd5aac5ca7e690ae1164e14ce52fb4.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\acfd5aac5ca7e690ae1164e14ce52fb4-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/acfd5aac5ca7e690ae1164e14ce52fb4.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\acfd5aac5ca7e690ae1164e14ce52fb4-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/acfd5aac5ca7e690ae1164e14ce52fb4.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\acfd5aac5ca7e690ae1164e14ce52fb4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/f7987cf475877a3eb31b1ded14f34c80.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\f7987cf475877a3eb31b1ded14f34c80-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/f7987cf475877a3eb31b1ded14f34c80.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\f7987cf475877a3eb31b1ded14f34c80-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/f7987cf475877a3eb31b1ded14f34c80.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\f7987cf475877a3eb31b1ded14f34c80-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/f7987cf475877a3eb31b1ded14f34c80.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\f7987cf475877a3eb31b1ded14f34c80-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/f7987cf475877a3eb31b1ded14f34c80.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\f7987cf475877a3eb31b1ded14f34c80.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/fd4b381634839f3c240cdddfd9275995.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\fd4b381634839f3c240cdddfd9275995-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/fd4b381634839f3c240cdddfd9275995.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\fd4b381634839f3c240cdddfd9275995-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/fd4b381634839f3c240cdddfd9275995.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\fd4b381634839f3c240cdddfd9275995-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/fd4b381634839f3c240cdddfd9275995.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\fd4b381634839f3c240cdddfd9275995-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-05/fd4b381634839f3c240cdddfd9275995.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-05\fd4b381634839f3c240cdddfd9275995.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-18/18e775b481b8c9c7f344a9bf3623a84d.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-18\18e775b481b8c9c7f344a9bf3623a84d-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-18/18e775b481b8c9c7f344a9bf3623a84d.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-18\18e775b481b8c9c7f344a9bf3623a84d-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-18/18e775b481b8c9c7f344a9bf3623a84d.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-18\18e775b481b8c9c7f344a9bf3623a84d-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-18/18e775b481b8c9c7f344a9bf3623a84d.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-18\18e775b481b8c9c7f344a9bf3623a84d-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-18/18e775b481b8c9c7f344a9bf3623a84d.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-18\18e775b481b8c9c7f344a9bf3623a84d.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-22/e53896e8cf6de88caeabd32f1abc17b4.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-22\e53896e8cf6de88caeabd32f1abc17b4-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-22/e53896e8cf6de88caeabd32f1abc17b4.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-22\e53896e8cf6de88caeabd32f1abc17b4-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-22/e53896e8cf6de88caeabd32f1abc17b4.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-22\e53896e8cf6de88caeabd32f1abc17b4-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-22/e53896e8cf6de88caeabd32f1abc17b4.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-22\e53896e8cf6de88caeabd32f1abc17b4-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-09-22/e53896e8cf6de88caeabd32f1abc17b4.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-09-22\e53896e8cf6de88caeabd32f1abc17b4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-10-01/87051fb5b10f486295e0b84de021d296.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-10-01\87051fb5b10f486295e0b84de021d296-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-10-01/87051fb5b10f486295e0b84de021d296.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-10-01\87051fb5b10f486295e0b84de021d296-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-10-01/87051fb5b10f486295e0b84de021d296.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-10-01\87051fb5b10f486295e0b84de021d296-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-10-01/87051fb5b10f486295e0b84de021d296.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-10-01\87051fb5b10f486295e0b84de021d296-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-10-01/87051fb5b10f486295e0b84de021d296.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-10-01\87051fb5b10f486295e0b84de021d296.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-11-15/920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-15\920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-11-15/920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-15\920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-11-15/920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-15\920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-11-15/920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-15\920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-11-15/920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-11-15\920497530038e786a3882515e3fff8ae.0D2423-E9C658-849494.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\48e19d625a46941e1629f1686a5d4e40.050618-AE0A37-0BB8E6.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-04/990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-04\990bfaf37bb7b41c34bacd3ece67dba3.F8F813-070704-7C840C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-06/2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-06\2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-06/2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-06\2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-06/2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-06\2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-06/2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-06\2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-06/2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-06\2a5835bdea017ef6f4db25ae65fdc4ed.040404-080404-080404.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\499fdc66836542bc70be3a65ed90b470.848484-EC1C24-D05454.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-10/f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-10\f9fcbe540154bb4d2a8b40614d7cc292.54C4DC-D5F4F7-8FD9E9.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-25/e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-25\e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-25/e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-25\e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-25/e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-25\e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-25/e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-25\e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-25/e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-25\e3572e285e20eeb4ecb4055f73998c79.FCD30B-343434-FCF6C1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\7c5e7ea1db92a030ec7d3a23cff92a53.2C5384-CC2E3C-94A4BC.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-26/d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-26\d858c9c536aba3722de35d966a4098d4.0565FC-BCD6FC-6CA4FC.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\8a472c82bba3bb283c8c53c4849c22e6.B33444-A42C34-BC2C34.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a07e0561ee8f053d6522c50ad2934cfc.F79625-242424-588024.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a32ebcc4808fda3cf4b85782961a354c.B3B4B4-C31C3B-BC4C5C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\a9fc919d5265a91578f0bb1c98128e56.BC2524-040404-F9C548.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\c1ef8f2b855228ef594ecc021f8ba4b0.F0C451-B70707-F8EDD6.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2019-12-30/d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2019-12-30\d5505039fbea0cf2b3f7338c626072fd.BC2424-040404-FAC93C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\4c09a7adfa1fbccdffa8425976499d41.0A142A-42BAE5-86898E.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\64e09a4f486872b22577a7bcb68dde97.0A152B-BF9539-439D46.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-16/f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-16\f427de9b5a215943c3e42776b897573b.08122A-43BAE4-409A44.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-22/f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-22\f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-22/f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-22\f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-22/f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-22\f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-22/f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-22\f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-22/f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-22\f0b2ab1f1bd8fb0d4d15fc9b1ef71d1e.39578C-D6EBF8-7CACE4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-23/d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-23\d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-23/d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-23\d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-23/d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-23\d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-23/d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-23\d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-23/d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-23\d65a81a17ec8451ea32b7acadcfbc4cf.39568C-DDF0FA-8CB4E4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/30f37e09b7ad49f1dfa789bf9c46a0c4.050E26-1D2944-2A394C.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\30f37e09b7ad49f1dfa789bf9c46a0c4.050E26-1D2944-2A394C.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/30f37e09b7ad49f1dfa789bf9c46a0c4.050E26-1D2944-2A394C.jpeg?w=1690
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\30f37e09b7ad49f1dfa789bf9c46a0c4.050E26-1D2944-2A394C-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/30f37e09b7ad49f1dfa789bf9c46a0c4.050E26-1D2944-2A394C.jpeg?w=2048
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\30f37e09b7ad49f1dfa789bf9c46a0c4.050E26-1D2944-2A394C-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\4f8d918eaadb10a79c65ede90c57293e.060F2A-E1CAD7-39B6E3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/a28aa4c7355b7c0da901b0baa422669d.071028-3C2932-13363D.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\a28aa4c7355b7c0da901b0baa422669d.071028-3C2932-13363D.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/a28aa4c7355b7c0da901b0baa422669d.071028-3C2932-13363D.jpeg?w=1690
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\a28aa4c7355b7c0da901b0baa422669d.071028-3C2932-13363D-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/a28aa4c7355b7c0da901b0baa422669d.071028-3C2932-13363D.jpeg?w=2048
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\a28aa4c7355b7c0da901b0baa422669d.071028-3C2932-13363D-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/cbb3694f22fa1c4e80d616c9e1343d2e.0C152B-5A4F4E-2E4D57.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\cbb3694f22fa1c4e80d616c9e1343d2e.0C152B-5A4F4E-2E4D57.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/cbb3694f22fa1c4e80d616c9e1343d2e.0C152B-5A4F4E-2E4D57.jpeg?w=1690
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\cbb3694f22fa1c4e80d616c9e1343d2e.0C152B-5A4F4E-2E4D57-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/cbb3694f22fa1c4e80d616c9e1343d2e.0C152B-5A4F4E-2E4D57.jpeg?w=2048
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\cbb3694f22fa1c4e80d616c9e1343d2e.0C152B-5A4F4E-2E4D57-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e80a6ce73b9a4c3858ffee6a1ce27712.0D355F-EDEFF8-F4C338.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-01-31/e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-01-31\e8da5b898b923ea068052a6c0fa3e911.F0F0F8-0C1630-3AA5CF.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-06/ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-06\ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-06/ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-06\ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-06/ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-06\ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-06/ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-06\ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-06/ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-06\ab2f9520c2ddfcddc67fed6df724eb92.050618-AE0A37-0BB8E6.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-07/2eb3370d9cfee4854cc2e83b4b94fa9d.141A31-433B49-2C3C49.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-07\2eb3370d9cfee4854cc2e83b4b94fa9d.141A31-433B49-2C3C49.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-07/2eb3370d9cfee4854cc2e83b4b94fa9d.141A31-433B49-2C3C49.png?w=1690
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-07\2eb3370d9cfee4854cc2e83b4b94fa9d.141A31-433B49-2C3C49-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-07/2eb3370d9cfee4854cc2e83b4b94fa9d.141A31-433B49-2C3C49.png?w=2048
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-07\2eb3370d9cfee4854cc2e83b4b94fa9d.141A31-433B49-2C3C49-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\13482bd13479f2bd104116ff4e132181.549CD4-7C8383-708CBC.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\2b3a08c36a60ef1e611164b2d39f4c53.3C8FD2-040404-587440.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\61201a47e10807c1fe109244ef2ce523.DC1C04-2C2C34-E0281C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\643a1065983b43d074ee6aa348dd9288.070707-B8B8B8-7C7C7C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\9b07ecde17f9ca93f43219fca3455c62.0DADC9-4C545C-048CB2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\d1e0e7520aa86593177fee006a938f48.050606-1C1D1D-141C1C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-17/db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-17\db516c8cfba68774e1702a6c30eb4505.EC3C44-342C34-68383C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\488995320db4087c8b07faf098cc8e2c.3CAC2C-8F5CF6-2C6688.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/2020-02-18/79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\2020-02-18\79f38e17995404c7d84d3593638004c4.92C25B-181A16-5C7C3C.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/flags/en.svg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\flags\en-1.svg
+Content Type: image/svg+xml
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/flags/en.svg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\flags\en-2.svg
+Content Type: image/svg+xml
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/flags/en.svg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\flags\en-3.svg
+Content Type: image/svg+xml
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/flags/en.svg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\flags\en-4.svg
+Content Type: image/svg+xml
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/flags/en.svg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\flags\en.svg
+Content Type: image/svg+xml
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_50652776f9dd04218c7029c0abcea86c.273E36-A7B970-8394A4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_63692e3fe977fee8fb7bd1100ba0fd35.120D2D-B10832-09B9E1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_104579_dc9f65933ed5dcc7db01dd73f84746e6.083555-E69054-08BAED.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1-5.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_1739_8ca6c3b10bc0b94b65d85eda9f04ccce.120D2D-B10832-09B9E1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_0ee1b6b361780ce1469a857b6b6c424a.152031-BC9D4A-848474.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_38ae2f581812e6f543c001c22dc0eb77.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_38ae2f581812e6f543c001c22dc0eb77-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_38ae2f581812e6f543c001c22dc0eb77.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_38ae2f581812e6f543c001c22dc0eb77-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_38ae2f581812e6f543c001c22dc0eb77.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_38ae2f581812e6f543c001c22dc0eb77-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_38ae2f581812e6f543c001c22dc0eb77.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_38ae2f581812e6f543c001c22dc0eb77-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_38ae2f581812e6f543c001c22dc0eb77.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_38ae2f581812e6f543c001c22dc0eb77.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_4808ec7d715cdb906e7c836480783615.122034-3DBBE7-D4DBE0.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_59dfe0a15878bba661ebc30152dbb654.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_59dfe0a15878bba661ebc30152dbb654-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_59dfe0a15878bba661ebc30152dbb654.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_59dfe0a15878bba661ebc30152dbb654-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_59dfe0a15878bba661ebc30152dbb654.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_59dfe0a15878bba661ebc30152dbb654-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_59dfe0a15878bba661ebc30152dbb654.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_59dfe0a15878bba661ebc30152dbb654-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_59dfe0a15878bba661ebc30152dbb654.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_59dfe0a15878bba661ebc30152dbb654.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_e639e6bc12c5acf304e45998c824143a.122035-5EC3E8-3881A2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2.jpeg?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2-1.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2.jpeg?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2-2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2.jpeg?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2-3.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2.jpeg?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2-4.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/tournaments/avatar/user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2.jpeg?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\tournaments\avatar\user_44028_f1941ff2c9168821967e008cb2d1f06a.122035-5EC3E8-3881A2.jpeg
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_17f5d5ecb5cfc585c0b2e8c5a79716f1.293D68-C0A095-70A9D9.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_31afebb556ef1668e3a252306f0cf2c6.2E4572-CAAA9A-7BB3E0.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_22405_ae83efd1c84bfb04a12c5696236331b0.5961B4-3B3C3C-0E8ACF.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4.png?w=1024
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4-1.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4.png?w=1280
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4-2.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4.png?w=1680
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4-3.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4.png?w=2560
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4-4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay-cdn.azureedge.net/weplay-public/users/avatar/user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4.png?w=640
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-public\users\avatar\user_735_d232159adba6babd1d52ae4078261ffd.D5E9F4-0947B4-6C94D4.png
+Content Type: application/octet-stream
+
+Uri: https://weplay.tw/
+File Name: C:\Downloaded Web Sites\weplay.tw\index.htm
+Content Type: text/html
+
+Uri: https://weplay.tw/autumn-lan-final.php
+File Name: C:\Downloaded Web Sites\weplay.tw\autumn-lan-final.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/cookie-policy.php
+File Name: C:\Downloaded Web Sites\weplay.tw\cookie-policy.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/events.php
+File Name: C:\Downloaded Web Sites\weplay.tw\events.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/fournewteamsjoin.php
+File Name: C:\Downloaded Web Sites\weplay.tw\fournewteamsjoin.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/index.php
+File Name: C:\Downloaded Web Sites\weplay.tw\index.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/participants.php
+File Name: C:\Downloaded Web Sites\weplay.tw\participants.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/privacy-policy.php
+File Name: C:\Downloaded Web Sites\weplay.tw\privacy-policy.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/terms-of-service.php
+File Name: C:\Downloaded Web Sites\weplay.tw\terms-of-service.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/cs-go.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\cs-go.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-1v1-aim-versus-236-cis-id-4248.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-1v1-aim-versus-236-cis-id-4248.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-1v1-aim-versus-237-cis-id-4261.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-1v1-aim-versus-237-cis-id-4261.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-1v1-pistols-versus-93-eu-id-4253.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-1v1-pistols-versus-93-eu-id-4253.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-1v1-premium-versus-119-cis-id-4250.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-1v1-premium-versus-119-cis-id-4250.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-2v2-classic-200-eu-id-4247.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-2v2-classic-200-eu-id-4247.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-2v2-classic-298-cis-id-4249.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-2v2-classic-298-cis-id-4249.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/csgo/tournament-weplay-cs-go-5v5-classic-344-cis-id-4251.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\csgo\tournament-weplay-cs-go-5v5-classic-344-cis-id-4251.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota-underlords.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota-underlords.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-5v5-captains-mode-25-sea-id-4246.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-5v5-captains-mode-25-sea-id-4246.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-5v5-captains-mode-82-eu-id-4256.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-5v5-captains-mode-82-eu-id-4256.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-dota-2-duel-kunkka-34-eu-id-4257.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-dota-2-duel-kunkka-34-eu-id-4257.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-dota-2-duel-mk-74-eu-id-4259.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-dota-2-duel-mk-74-eu-id-4259.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-dota-2-duel-pudge-118-eu-id-4258.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-dota-2-duel-pudge-118-eu-id-4258.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-dota-2-lina-arcana-4-sea-id-4245.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-dota-2-lina-arcana-4-sea-id-4245.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota/tournament-weplay-dota-2-premium-duel-storm-6-eu-id-4255.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota\tournament-weplay-dota-2-premium-duel-storm-6-eu-id-4255.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/dota2.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\dota2.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/premium.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\premium.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tournament/teamfight-tactics.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tournament\teamfight-tactics.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/tug-of-war-mad-moon.php
+File Name: C:\Downloaded Web Sites\weplay.tw\tug-of-war-mad-moon.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/we-save-charity-play.php
+File Name: C:\Downloaded Web Sites\weplay.tw\we-save-charity-play.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/weplay-bukovel-minor-2020.php
+File Name: C:\Downloaded Web Sites\weplay.tw\weplay-bukovel-minor-2020.php.html
+Content Type: text/html
+
+Uri: https://weplay.tw/wesave-newcomers-furia-navi-and-cr4zy-20830.php
+File Name: C:\Downloaded Web Sites\weplay.tw\wesave-newcomers-furia-navi-and-cr4zy-20830.php.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=331611000965547&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\weplay.tw\tr
+Content Type: text/plain
+
